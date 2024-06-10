@@ -1,0 +1,17 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name": "Quang",
+            "address": "Hà Nội"
+        },
+        {
+            "id": 2,
+            "name": "Minh Anh",
+            "address": "Hải Phòng"
+        }
+    ],
+    "products": [],
+    "comment": []
+},
+
